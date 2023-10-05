@@ -1,0 +1,1 @@
+window.alert('You are going into the page of CAROL')

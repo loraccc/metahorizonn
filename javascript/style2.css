@@ -1,0 +1,58 @@
+/* Utility classes
+
+
+
+@keyframes slideInleft {
+    from{
+        transform :translateX(-300px);
+    }
+    to{
+        transform: translateX(0px);
+    }
+}
+.heading-1{
+    animation: slideInleft 2s ease-out 2 normal forwards;
+    animation: name duration timing-function delay iteration-count direction fill-mode; */
+
+/* 
+    animation-name: slideInleft ;
+    animation-duration: 3s ;
+    animation-timing-function:ease-out ;
+    animation-delay: 0s;
+    animation-iteration-count:1 ;
+    animation-direction: normal ; /*reverse*/
+    /* animation-fill-mode: forwards; */ */
+
+    /* transform: translateX(-150px); */
+/* }
+.container{
+    border-radius: 2px ;
+    border: 2px solid black;
+}
+.row1{
+    background-color: aquamarine;
+    color:red
+} */
+
+
+
+
+.navbar-brand{
+    background-color: aliceblue;
+}
+.nav-link{
+    color: white;
+    background-color: aliceblue;
+}
+.navbar-nav .nav-link:hover {
+    background-color: rgb(90, 64, 64);
+    color: white; 
+}
+.form-range{
+    color: aqua;
+    } 
+
+    .carousel-img {
+        max-width: 60%; /* Adjust the maximum width as needed */
+    }
+    
