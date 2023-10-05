@@ -1,0 +1,33 @@
+body {
+    background-image: url('assets/gun.jpg');
+    background-size: cover;
+    background-position: center;
+    margin: 0; /* Remove default margin on the body */
+    padding: 0; /* Remove default padding on the body */
+    font-family: Arial, sans-serif; /* Set a fallback font family */
+}
+
+/* Your other styles for .three-five, .para, .h1, #clssfive remain unchanged */
+.three-five {background-color: bisque;
+    border: 2px solid rgb(210, 160, 99);
+    border-radius: 20px;
+    margin: 10px;
+    /* background-image: url('assets/gun.jpg'); Remove this line from here */
+    background-position: center;
+    background-size: cover; /* Adjust the background si*/
+}
+    .para{
+        color: black;
+    }
+.h1{
+        color: rgb(101, 163, 163);
+    text-align: center;
+    font-weight: 600;
+    transition: 2px;} 
+#clssfive{
+    align-items: center;
+    color: aqua;
+    padding: 20px;
+    border: 2px solid black;
+    
+}
